@@ -39,8 +39,6 @@ public class SecurityConfig {
 //        }).formLogin(Customizer.withDefaults())
 //                .httpBasic(Customizer.withDefaults());
 //        return httpSecurity.build();
-
-
     }
 
 }//class

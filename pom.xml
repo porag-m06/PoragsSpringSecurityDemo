@@ -11,8 +11,8 @@
 	<groupId>com.mp.security.oauth2</groupId>
 	<artifactId>SpringSecurityDemo</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>demo</name>
-	<description>Demo project for Spring Boot</description>
+	<name>SpringSecurityDemo</name>
+	<description>Demo project for Spring Security and OAuth2</description>
 	<properties>
 		<java.version>17</java.version>
 	</properties>
